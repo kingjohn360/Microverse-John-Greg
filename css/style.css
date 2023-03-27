@@ -1,0 +1,23 @@
+#main{
+  margin: auto;
+}
+
+#image {
+  max-width: 100%;
+  height: 100%;
+}
+
+#tribute-info {
+  padding-left: 20%;
+  padding-right: 20%;
+  /* width: 60%; */
+}
+
+#tribute-info h3, #title, #img-div{
+  text-align: center;
+
+}
+
+#tribute-info li{
+  line-height: 2.5rem;
+}
