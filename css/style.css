@@ -1,10 +1,16 @@
 #main{
   margin: auto;
+  background-color: #EEEEEE;
 }
 
 #image {
   max-width: 100%;
   height: 100%;
+  
+}
+#img-div {
+  padding: 30px 20px;
+  background-color: white;
 }
 
 #tribute-info {
